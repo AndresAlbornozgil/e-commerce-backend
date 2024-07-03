@@ -1,2 +1,2 @@
-# e-commerce-backend
+# E-Commerce Backend
 The backend for an e-commerce site.
