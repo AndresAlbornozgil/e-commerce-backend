@@ -1,5 +1,4 @@
 # E-Commerce Backend
-
 ## Description
   #### The back end for an e-commerce site.
   ## Table of Contents
