@@ -15,7 +15,7 @@ The back end for an e-commerce site.
 This project does not require an installation. However, you are welcome to to either clone the repository and access the project files or fork the repo.
 
 ## Usage
-Deployed on [.....](..........)
+Deployed on (https://app.screencastify.com/v3/watch/f3Rkd5Ap0kQMQE9qdYa6)
 
 ![image of E-Commerce Backend App](...........)
 
